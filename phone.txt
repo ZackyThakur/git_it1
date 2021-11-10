@@ -1,0 +1,5 @@
+phone
+
+touchscreen
+display : 3D
+
